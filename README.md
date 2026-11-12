@@ -15,8 +15,8 @@ pantihen@github:~$ cat about.txt
 > REST API на Django REST Framework, фоновые задачи на Celery
 > Люблю чистую архитектуру, быстрые запросы и зелёные пайплайны
 
-pantihen@github:~$ ping me
-> telegram: @your_telegram
+pantihen@github:~$ python manage.py check
+> System check identified no issues (0 silenced).
 ```
 
 ### `$ pip freeze --stack`
@@ -28,8 +28,8 @@ pantihen@github:~$ ping me
 ### `$ git log --stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pantihen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=39ff14&ring_color=39ff14&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pantihen&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
