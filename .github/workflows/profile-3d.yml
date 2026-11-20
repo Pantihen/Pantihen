@@ -9,6 +9,7 @@ on:
     paths:
       - ".github/workflows/profile-3d.yml"
       - "config/profile-3d.json"
+      - "scripts/recolor_pie.py"
 
 permissions:
   contents: write
@@ -28,6 +29,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: config/profile-3d.json
+
+      - name: Recolor language chart
+        run: |
+          python3 scripts/recolor_pie.py \
+            profile-3d-contrib/pantihen-dark.svg dark \
+            profile-3d-contrib/pantihen-light.svg light
 
       - name: Commit & push
         run: |
