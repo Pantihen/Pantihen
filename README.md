@@ -1,12 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Pantihen" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=1800&pause=100000&color=0A0A0A&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Pantihen" alt="Pantihen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pantihen/Pantihen/main/assets/header-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Pantihen/Pantihen/main/assets/header-light.svg" width="100%" alt="Pantihen — Python / Django backend developer" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=E50914&center=true&vCenter=true&width=520&height=32&lines=Python+%2F+Django+Backend+Developer;REST+APIs+with+Django+REST+Framework;Background+jobs+with+Celery+%2B+Redis;Docker+%E2%86%92+Gunicorn+%E2%86%92+Nginx+%E2%86%92+prod" alt="Python / Django Backend Developer" />
 </p>
 
 <p align="center">
@@ -19,9 +15,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pantihen&bg_color=0A0A0A&color=FFFFFF&title_color=FFFFFF&line=E50914&point=FFFFFF&area=true&area_color=E50914&hide_border=true&radius=6&custom_title=Contribution%20activity" width="100%" alt="Contribution activity" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pantihen&hide_border=true&border_radius=6&background=0A0A0A&ring=E50914&fire=E50914&currStreakNum=FFFFFF&currStreakLabel=E50914&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B8B8B&stroke=2A2A2A" width="100%" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pantihen/Pantihen/main/profile-3d-contrib/pantihen-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Pantihen/Pantihen/main/profile-3d-contrib/pantihen-light.svg" width="100%" alt="3D contribution calendar" />
+  </picture>
 </p>

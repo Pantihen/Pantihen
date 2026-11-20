@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "pantihen-dark.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#ffffff",
+    "strongColor": "#e50914",
+    "weakColor": "#8b8b8b",
+    "radarColor": "#e50914",
+    "growingAnimation": true,
+    "contribColors": ["#1c1f24", "#4d0a0e", "#8a0f17", "#c4121c", "#ff2a36"]
+  },
+  {
+    "type": "normal",
+    "fileName": "pantihen-light.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#0a0a0a",
+    "strongColor": "#e50914",
+    "weakColor": "#8b8b8b",
+    "radarColor": "#e50914",
+    "growingAnimation": true,
+    "contribColors": ["#ececec", "#ffc9cc", "#ff7a82", "#e50914", "#8a0f17"]
+  }
+]
